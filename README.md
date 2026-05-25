@@ -31,15 +31,15 @@ A passionate Full Stack Developer focused on building scalable web applications 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="www.linkedin.com/in/ayush-kalakoti-464b64251" target="blank">
 <img align="center" src="https://github.com/DevMadhup/DevMadhup/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="55" width="50" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB" target="blank">
+<a href="https://github.com/ashuifh" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="50" />
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE" target="blank">
+<a href="https://leetcode.com/u/ayush220/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="50" width="50" />
 </a>
 </p>
